@@ -12,12 +12,12 @@ Per 6: AP Comp Sci, Rm B12
 
 Team member 1
 
-Per 1: Digital Electronics, Rm B199
-Per 2: AP Comp Sci, Rm B199
-Per 3: Prep
-Per 4: AP Comp Sci, Rm B199
-Per 5: Digital Electronics, Rm B199
-Per 6: AP Comp Sci, Rm B199
+Per 1: Ap Physics, Rm 415
+Per 2: AP Computer Science, Rm B13
+Per 3: Computer Grahpics, Rm I
+Per 4: ERWC, Rm K
+Per 5: AP Calculus BC, Rm B6
+Per 6: Economy, Rm 406
 
 
 Team member 2
