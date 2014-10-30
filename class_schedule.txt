@@ -22,13 +22,12 @@ Per 6: AP Comp Sci, Rm B199
 
 Team member 2
 
-Per 1: Digital Electronics, Rm B199
-Per 2: AP Comp Sci, Rm B199
-Per 3: Prep
-Per 4: AP Comp Sci, Rm B199
-Per 5: Digital Electronics, Rm B199
-Per 6: AP Comp Sci, Rm B199
-
+Per 1: AP Environmental Science, Rm 316
+Per 2: AP Computer Science, Rm B13
+Per 3: ERWC, Rm 404
+Per 4: AP Stats, Rm B10
+Per 5: Art of Film, Rm 114
+Per 6: AP Gov, Rm P
 
 
 Team member 3
